@@ -1,3 +1,3 @@
 # test_calculator
-## skibidi sigma alpha male
-skbidi toilet is the most sugma creature in the universe
+## DIP_calculator
+This poject is one of the AI subject
